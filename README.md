@@ -30,9 +30,6 @@
  
 </div>
   
-
-  
-<div>
-  <img src="https://data.whicdn.com/images/185948237/original.gif" alt="This is an animated gif image, but it does not move"/>  
-  
+<div> 
+ <img src="https://media.discordapp.net/attachments/978815807343718412/978825013010522142/original.gif" alt="this slowpoke moves"  width="250" alt="404 image"/> 
 </div>
