@@ -1,6 +1,6 @@
 ### Oi, Sou o Rafael Oliveira 👋
 
-- 👨‍🎓 Estudando Sistema da Informação na Veiga de Almeida
+- 👨‍🎓 Sistema da Informação na Veiga de Almeida
 - 🌱 Aprendendo Desenvolvimento Web com Django
 - ⚽ Vasco da Gama & Real Madrid 
 - 🏈 Pittsburgh Steelers
