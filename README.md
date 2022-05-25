@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/faeltwister">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faeltwister&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faeltwister&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=faeltwister&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faeltwister&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -31,5 +31,6 @@
 </div>
   
 <div> 
- <img src="https://media.discordapp.net/attachments/978815807343718412/978825013010522142/original.gif" alt="this slowpoke moves"  width="250" alt="404 image"/> 
+ <img src="https://media.discordapp.net/attachments/978815807343718412/978825013010522142/original.gif" alt="this slowpoke moves"  width="250" alt="404 image"/>
+  
 </div>
