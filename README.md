@@ -1,4 +1,4 @@
-### Oi, me chamo Rafael Oliveira 👋
+### Oi, Sou o Rafael Oliveira 👋
 
 - 👨‍🎓 Estudando Sistema da Informação na Veiga de Almeida
 - 🌱 Aprendendo Desenvolvimento Web com Django
