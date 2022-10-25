@@ -19,8 +19,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-react" height="30" width="40" src="https://avatars.githubusercontent.com/u/6412038?v=4">
-  <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://avatars.githubusercontent.com/u/9950313?v=4">
+  <img align="center" alt="Rafa-react" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="Rafa-php" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/978815807343718412/978816034213625876/263035_OPmLVPUY_1.png">
 </div> 
