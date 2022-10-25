@@ -1,7 +1,8 @@
 ### Oi, Sou o Rafael Oliveira 👋
 
 - 👨‍🎓 Sistema da Informação na Veiga de Almeida
-- 🌱 Aprendendo Desenvolvimento Web com Django
+- :desktop_computer:  FullStack
+- 🌱 Desenvolvimento Back-end
 - ⚽ Vasco da Gama & Real Madrid 
 - 🏈 Pittsburgh Steelers
 
