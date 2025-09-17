@@ -1,4 +1,4 @@
-### Oi, Sou o Rafael Oliveira 👋
+### Oi, Sou o Rafael 👋
 
 - 👨‍🎓 Sistema da Informação na Veiga de Almeida
 - :desktop_computer:  Full-Stack
